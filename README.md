@@ -1,2 +1,5 @@
 # hello-world
-Simple and not difficult repository. 
+
+Hi, People!
+
+Maciaszek20 here, I like very write code.
